@@ -16,7 +16,7 @@
 
 #### Μηχανικός Ανάπτυξης Λογισμικού: NSN	Φεβρουάριος 2007 - Σήμερα
 ##### Καθήκοντα:
-######
+
 ######•	S/W Testing
 ######•	Media Server Configuration/Operation
 ######•	Feature Testing
